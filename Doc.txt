@@ -1,0 +1,7 @@
+Comandos
+
+- git init
+- git add -A
+- git commit -m "Mensaje"
+- git status
+- git log
