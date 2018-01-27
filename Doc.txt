@@ -5,3 +5,4 @@ Comandos
 - git commit -m "Mensaje"
 - git status
 - git log
+- git clone
